@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name         Sticker Police
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Ban stickers from Whatsapp
+// @author       Baxi
+// @match        web.whatsapp.com*
+// @icon         https://images-ext-2.discordapp.net/external/mdnua0d5ZyqZpRiECCbzK4q7Vj3tnrbiVwCd-8mfLe0/https/i.imgur.com/9C6Xkls.png
+// @grant        none
+// ==/UserScript==
+
 (function() {
     'use strict';
     let togglebutton=document.createElement("button");
