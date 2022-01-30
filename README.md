@@ -1,6 +1,6 @@
 # sticker-police
 Tired of sticker spam in Whatsapp? Use sticker-police
-#installation
+# installation
 Install tampermonkey from [Chrome webstore](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 ![](https://images-ext-2.discordapp.net/external/jHdnjCrg5KrEzBIQorceHcngN9e1SLa1OSs3I3PXzHk/https/i.imgur.com/nsP210Fh.jpg)
